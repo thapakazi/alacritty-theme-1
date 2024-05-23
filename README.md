@@ -22,7 +22,7 @@ colorscheme):
 
 ```toml
 import = [
-    "~/.config/alacritty/themes/themes/{theme}.toml"
+    "~/.config/alacritty/themes/{theme}.toml"
 ]
 ```
 
